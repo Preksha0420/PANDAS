@@ -7,7 +7,7 @@ Diabetes is a big problem for Medicare as it is a major prevalent chronic condit
 This project delves into Medicare Part D spending, specifically focusing on diabetic medications. The purpose of this analysis is to unveil spending patterns, identify outliers, and provide insights that can inform policy decisions, optimize resource allocation, and enhance care within the Medicare system.
 
 ---
-
+Project Presentation is for stakeholder purposes.
 Primary report is a notebook **"Report"**, that lists everything you need to know. The code is attached in the appendix.
 If you want to go through just the code, there is a notebook named **Code** for this purpose.
 A markdown html is attached as well.
